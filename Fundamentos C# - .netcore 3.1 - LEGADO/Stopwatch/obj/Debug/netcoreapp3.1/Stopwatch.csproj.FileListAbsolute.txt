@@ -1,0 +1,13 @@
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.exe
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.deps.json
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.json
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.genruntimeconfig.cache

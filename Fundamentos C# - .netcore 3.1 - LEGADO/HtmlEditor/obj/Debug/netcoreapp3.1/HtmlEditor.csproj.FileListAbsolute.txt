@@ -1,0 +1,13 @@
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.exe
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.deps.json
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.runtimeconfig.json
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.runtimeconfig.dev.json
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.dll
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.pdb
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.AssemblyInfo.cs
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.dll
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.pdb
+C:\Users\lucca\anderson\Curso-balta.io---C-\Fundamentos C# - .netcore 3.1 - LEGADO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.genruntimeconfig.cache
